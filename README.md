@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **raghavgoel168@gmail.com**
 
-- 📄 Know about my experiences [https://raghavgoel168.github.io/MyPortfolio/](https://raghavgoel168.github.io/MyPortfolio/)
+- 📄 Know about my experiences [My Resume](https://github.com/raghavgoel168/raghavgoel168/blob/main/Raghav%20Goel%20Resume.pdf)
 
 - ⚡ Fun fact **I consider breaking things as a way to build them better!**
 
