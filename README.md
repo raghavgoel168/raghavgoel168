@@ -69,7 +69,7 @@
   </a>
   <!-- Flask -->
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="file:///C:/Users/ragha/Downloads/Flask.svg" alt="flask" width="40" height="40"/>
+    <img src="https://github.com/raghavgoel168/raghavgoel168/blob/main/kindpng_1882559.png" alt="flask" width="40" height="40"/>
   </a>
   <!-- Flutter -->
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
