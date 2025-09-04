@@ -23,7 +23,7 @@
 
 ### 💬 Let's Connect:
 - 📫 Reach me at: **[raghavgoel168@gmail.com](mailto:raghavgoel168@gmail.com)**
-- 📝 My [Resume](https://github.com/raghavgoel168/raghavgoel168/blob/main/Raghav%20Goel%20Resume.pdf)
+- 📝 My [Resume](https://github.com/raghavgoel168/raghavgoel168/blob/main/Raghav%20Goel%20Resume%20New%202.pdf)
 - ⚡ Fun fact: **I consider breaking things as a way to build them better!**
 
 ---
